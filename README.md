@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noucodes
 - 👀 I’m interested in Programming Generally but mostly i dabble myself on web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PERN
 - 💞️ I’m looking to collaborate on anyone, Im also open to internships.
 - 📫 You can reach me at my email escudero.elton@gmail.com
 
